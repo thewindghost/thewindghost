@@ -1,12 +1,17 @@
 # TheWindGhost
 
-I am a Security Researcher specializing in **Penetration Testing** and **Bug Bounty**. I focus on discovering and analyzing vulnerabilities in web and mobile applications, including IoT devices.
-
----
-
 ## Field of Expertise
 
 **Security Researcher**: I research novel vulnerabilities (including zero-days), perform web and mobile application penetration tests, and assess IoT products. I specialize in finding logic and implementation-based vulnerability variants and producing clear, actionable reports.
+
+---
+## Personal Information
+- **Full Name:** Truong Nguyen Long  
+- **Nickname:** TheWindGhost  
+- **Nationality:** Vietnamese  
+- **Age:** 18+  
+- **Role:** Security Researcher / Penetration Tester  
+- **Interests:** Web Application Security, Bug Bounty Hunting 
 
 ---
 ## CVEs Table
@@ -21,7 +26,6 @@ I am a Security Researcher specializing in **Penetration Testing** and **Bug Bou
 | Waiting for CVE ID | Waiting for Published | Insecure Broadcast Receiver | Private |
 
 ---
-
 ## Tools & Technologies
 
 | Field | Tools & Techniques |
