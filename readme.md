@@ -17,7 +17,7 @@ I am a Security Researcher specializing in **Penetration Testing** and **Bug Bou
 | CVE-2025-29419 | Waiting for Published | Man-in-the-Middle Attack (MITM) | Private |
 | Waiting for CVE ID | Waiting for Published | SSL Downgrade - HTTP | Private |
 | Waiting for CVE ID | Waiting for Published | XSS Stored - Reflected File Download | Private |
-| Waiting for CVE ID | Waiting for Published | Unauthenticated access | Private |
+| Waiting for CVE ID | Waiting for Published | Unauthenticated Access | Private |
 | Waiting for CVE ID | Waiting for Published | Insecure Broadcast Receiver | Private |
 
 ---
