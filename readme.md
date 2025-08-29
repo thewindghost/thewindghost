@@ -11,14 +11,14 @@ I am a Security Researcher specializing in **Penetration Testing** and **Bug Bou
 ---
 ## CVEs Table
 
-| CVE-ID | Affected Products | short description | CVSS | Link |
-| :--- | :--- | :--- | :--- | :--- |
-| CVE-2025-23001 | CTFd | Host Header Injection - Reset Password Poisoning | CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N | [POC-CVE-2025-23001](https://nvd.nist.gov/vuln/detail/CVE-2025-23001) |
-| CVE-2025-29419 | Waiting for Published | Man-in-the-Middle Attack (MITM) | None | Private |
-| Waiting for CVE ID | Waiting for Published | SSL Downgrade - HTTP | None | Private |
-| Waiting for CVE ID | Waiting for Published | XSS Stored - Reflected File Download | None | Private |
-| Waiting for CVE ID | Waiting for Published | Unauthenticated access | None | Private |
-| Waiting for CVE ID | Waiting for Published | Insecure Broadcast Receiver | None | Private |
+| CVE-ID | Affected Products | Description| Link |
+| :--- | :--- | :--- | :--- |
+| CVE-2025-23001 | CTFd | Host Header Injection - Reset Password Poisoning | [POC-CVE-2025-23001](https://nvd.nist.gov/vuln/detail/CVE-2025-23001) |
+| CVE-2025-29419 | Waiting for Published | Man-in-the-Middle Attack (MITM) | Private |
+| Waiting for CVE ID | Waiting for Published | SSL Downgrade - HTTP | Private |
+| Waiting for CVE ID | Waiting for Published | XSS Stored - Reflected File Download | Private |
+| Waiting for CVE ID | Waiting for Published | Unauthenticated access | Private |
+| Waiting for CVE ID | Waiting for Published | Insecure Broadcast Receiver | Private |
 
 ---
 
