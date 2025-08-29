@@ -6,7 +6,7 @@ I am a Security Researcher specializing in **Penetration Testing** and **Bug Bou
 
 ## Field of Expertise
 
-**Security Researcher** — I research novel vulnerabilities (including zero-days), perform web and mobile application penetration tests, and assess IoT products. I specialize in finding logic- and implementation-based vulnerability variants and producing clear, actionable reports.
+**Security Researcher**: I research novel vulnerabilities (including zero-days), perform web and mobile application penetration tests, and assess IoT products. I specialize in finding logic and implementation-based vulnerability variants and producing clear, actionable reports.
 
 ---
 ## CVEs Table
@@ -63,16 +63,17 @@ I am a Security Researcher specializing in **Penetration Testing** and **Bug Bou
 
 ## CTFs Participated
 
-* **HTB Apocalypse 2024 — Hacker Royale**
+* **HTB Apocalypse 2024 Hacker Royale**
     * **Ranking:** 485 / 12,000 Total Players
     * **Challenges solved:** Web, Forensics, Reverse, Pwn
     * **Link / Proof:** [HTB Apocalypse 2024 — Hacker Royale](https://www.linkedin.com/in/thewindghost/details/certifications/1739949833447/single-media-viewer/?profileId=ACoAAEyi-zoBlJBLFgl9NSof5nfHQl-ZS_fGn48)
+
 * **Fetch The Flag CTF 2025**
     * **Ranking:** 37 / 1,213 Total Teams
     * **Challenges solved:** Web, Forensics, Misc
     * **Link / Proof:** [Fetch The Flag CTF 2025](https://www.linkedin.com/in/thewindghost/details/certifications/1742106643978/single-media-viewer/?profileId=ACoAAEyi-zoBlJBLFgl9NSof5nfHQl-ZS_fGn48)
 
-* **HTB Apocalypse 2025 — Tales From Eldoria**
+* **HTB Apocalypse 2025 Tales From Eldoria**
     * **Ranking:** 170 / 8,130 Total Teams
     * **Challenges solved:** Web, AI, Forensics
     * **Link / Proof:** [HTB Apocalypse 2025 — Tales From Eldoria](https://www.linkedin.com/in/thewindghost/details/certifications/1742997903912/single-media-viewer/?profileId=ACoAAEyi-zoBlJBLFgl9NSof5nfHQl-ZS_fGn48)
