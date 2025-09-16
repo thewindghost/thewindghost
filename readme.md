@@ -21,7 +21,7 @@
 | CVE-2025-23001 | CTFd | Host Header Injection - Reset Password Poisoning | [POC-CVE-2025-23001](https://nvd.nist.gov/vuln/detail/CVE-2025-23001) |
 | CVE-2025-29419 | Waiting for Published | Man-in-the-Middle Attack (MITM) | Private |
 | Waiting for CVE ID | Waiting for Published | SSL Downgrade - HTTP | Private |
-| Waiting for CVE ID | Waiting for Published | XSS Stored - Reflected File Download | Private |
+| CVE-2025-10295 | Waiting for Published | XSS Stored - Reflected File Download | Private |
 | Waiting for CVE ID | Waiting for Published | Unauthenticated Access | Private |
 | Waiting for CVE ID | Waiting for Published | Insecure Broadcast Receiver | Private |
 
@@ -114,6 +114,4 @@
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thewindghost) [![Website](https://img.shields.io/badge/Blog-20232A?style=for-the-badge&logo=markdown&logoColor=white)](https://thewindghost.github.io/)
-
-# Joke For Fun LOL
 ---
