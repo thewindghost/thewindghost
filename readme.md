@@ -42,7 +42,7 @@
 ---
 ## Awards
 * **Top 1 In The February Ranking**
-    * **Issuer:** Trip Security Response Center
+    * **Issuer:** [Trip Security Response Center](https://src.trip.com/)
     * **Year:** 2025
     * **Verification:** [Award Trip Com](https://github.com/thewindghost/thewindghost/blob/main/images/award_trip_com.jpg)
 
