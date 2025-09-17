@@ -21,7 +21,7 @@
 | CVE-2025-23001 | [CTFd](https://github.com/CTFd/CTFd) | Host Header Injection - Reset Password Poisoning | MITRE | [POC](https://nvd.nist.gov/vuln/detail/CVE-2025-23001) |
 | CVE-2025-29419 | Waiting for Published | Man-in-the-Middle Attack (MITM) | MITRE | Private |
 | Waiting for CVE ID | Waiting for Published | SSL Downgrade - HTTP | Waiting for Published | Private |
-| CVE-2025-10295 | Waiting for Published | XSS Stored - Reflected File Download| Wordfence | Private |
+| CVE-2025-10295 | Waiting for Published | XSS Stored - Forced File Download| Wordfence | Private |
 | Waiting for CVE ID | Waiting for Published | Unauthenticated Access | Waiting for Published | Private |
 | Waiting for CVE ID | Waiting for Published | Insecure Broadcast Receiver | Waiting for Published | Private |
 
