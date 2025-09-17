@@ -44,7 +44,7 @@
 * **Top 1 In The February Ranking**
     * **Issuer:** [Trip Security Response Center](https://src.trip.com/)
     * **Year:** 2025
-    * **Verification:** [Award Trip Com](https://github.com/thewindghost/thewindghost/blob/main/images/award_trip_com.jpg)
+    * **Verification:** [Award Trip Com](https://github.com/thewindghost/thewindghost/blob/main/images/Award_trip_com.jpg)
 
 * **Top 6 Finalist In CSAW'2024 Red Team Competition**
     * **Issuer:** [Grenoble INP - UGA](https://www.linkedin.com/school/institut-polytechnique-de-grenoble) | [CSAW Europe - Cyber Security Awareness Week Europe - Grenoble INP - ESISAR](https://www.linkedin.com/company/csaw-europe/)
