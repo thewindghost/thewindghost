@@ -40,7 +40,13 @@
 | **Others** | ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 
 ---
+## Awards
+* **Top 6 Finalist in CSAW'2024 Red Team Competition**
+    * **Issuer:** [Grenoble INP - UGA](https://www.linkedin.com/school/institut-polytechnique-de-grenoble) | [CSAW Europe - Cyber Security Awareness Week Europe - Grenoble INP - ESISAR](https://www.linkedin.com/company/csaw-europe/)
+    * **Year:** 2024
+    * **Verification:** [A look back at CSAW'24: Red Team Competition](https://www.linkedin.com/posts/csaw-europe_csawabreurope-redteamcompetition-cybersecuritychallenge-activity-7296172162313273344-bv4s?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyi-zoBlJBLFgl9NSof5nfHQl-ZS_fGn48)
 
+---
 ## Certifications
 
 * **Web Penetration Testing**
@@ -104,10 +110,6 @@
 
 ---
 
-## GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thewindghost&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thewindghost&layout=compact&theme=dark)
 
 ---
 
