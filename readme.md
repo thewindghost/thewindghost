@@ -115,9 +115,6 @@
 
 ---
 
-
----
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thewindghost) [![Website](https://img.shields.io/badge/Blog-20232A?style=for-the-badge&logo=markdown&logoColor=white)](https://thewindghost.github.io/)
