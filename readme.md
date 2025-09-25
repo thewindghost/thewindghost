@@ -41,7 +41,7 @@
 | **Others** | ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 
 ---
-## Awards
+## Achievements and Awards
 * **Top 1 In The February Ranking**
     * **Issuer:** [Trip Security Response Center](https://src.trip.com/)
     * **Year:** 2025
