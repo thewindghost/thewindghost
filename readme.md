@@ -42,7 +42,7 @@
 
 ---
 ## Achievements and Awards
-* **Top 1 In The February Ranking**
+* **Top 1 Bug Bounty Hunter – Trip Security Response Center (Feb 2025)**
     * **Issuer:** [Trip Security Response Center](https://src.trip.com/)
     * **Year:** 2025
     * **Verification:** [Award Trip Com](https://github.com/thewindghost/thewindghost/blob/main/images/Award_trip_com.jpg)
