@@ -22,8 +22,8 @@
 | CVE-2025-29419 | Waiting for Published | Man-in-the-Middle Attack (MITM) | MITRE | Private |
 | Waiting for CVE ID | Waiting for Published | SSL Downgrade - HTTP | Waiting for Published | Private |
 | CVE-2025-10295 | Waiting for Published | XSS Stored - Forced File Download| Wordfence | Private |
-| Waiting for CVE ID | Waiting for Published | Unauthenticated Access | CERT/CC + CISA | Expected Date Public: 2025-10-20 |
-| Waiting for CVE ID | Waiting for Published | Unauthenticated Access | CERT/CC + CISA | Expected Date Public: 2025-10-20 |
+| CVE-2025-62674 | Waiting for Published | Unauthenticated Access | CERT/CC + CISA Industrial Control Systems Vulnerability Management and Coordination | Expected Date Public: 2025-11-18 |
+| CVE-2025-64770 | Waiting for Published | Unauthenticated Access | CERT/CC + CISA Industrial Control Systems Vulnerability Management and Coordination | Expected Date Public: 2025-11-18 |
 | Waiting for CVE ID | Waiting for Published | Insecure Broadcast Receiver | Waiting for Published | Private |
 
 ---
