@@ -1,5 +1,7 @@
 # TheWindGhost
 
+![Profile views](https://komarev.com/ghpvc/?username=thewindghost&color=blue)
+
 ## Field of Expertise
 
 **Security Researcher**: I research novel vulnerabilities (including zero-days), perform web and mobile application penetration tests, and assess IoT products. I specialize in finding logic and implementation-based vulnerability variants and producing clear, actionable reports.
