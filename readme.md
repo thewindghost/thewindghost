@@ -18,6 +18,8 @@
 ---
 ## CVEs Table
 
+<small>
+
 | CVE ID | Affected Products | Vulnerability | Issued by | Link |
 | :--- | :--- | :--- | :--- | :--- |
 | CVE-2025-23001 | [CTFd 3.7.5](https://github.com/CTFd/CTFd) | Host Header Injection - Reset Password Poisoning | MITRE | [POC](https://thewindghost.github.io/#cve-2025-23001) |
@@ -26,7 +28,11 @@
 | CVE-2025-10295 | [Angel – Fashion Model Agency WordPress CMS Theme <= 3.2.3 - Authenticated (Subscriber+)](https://themeforest.net/item/angel-fashion-model-agency-wordpress-cms-theme/4251413) | XSS Stored - Forced File Download| Wordfence | [Report](https://www.cve.org/CVERecord?id=CVE-2025-10295) |
 | CVE-2025-62674 | Waiting for Published | Unauthenticated Access | CERT/CC and CISA Industrial Control Systems Vulnerability Management and Coordination | Expected Date Public: 2025-11-18 |
 | CVE-2025-64770 | Waiting for Published | Unauthenticated Access | CERT/CC and CISA Industrial Control Systems Vulnerability Management and Coordination | Expected Date Public: 2025-11-18 |
+| Waiting for CVE ID | Waiting for Published | Denial of Service - Crash Service | CERT/CC and CISA Industrial Control Systems Vulnerability Management and Coordination | Private |
+| Waiting for CVE ID | Waiting for Published | Heap Overflow - Device Bricking | CERT/CC and CISA Industrial Control Systems Vulnerability Management and Coordination | Private |
 | Waiting for CVE ID | Waiting for Published | Insecure Broadcast Receiver | Waiting for Published | Private |
+   
+</small>
 
 ---
 ## Tools & Technologies
