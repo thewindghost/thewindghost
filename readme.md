@@ -18,8 +18,6 @@
 ---
 ## CVEs Table
 
-## CVEs Table
-
 <table style="font-size: 13px; width: 100%;">
 <thead>
   <tr>
