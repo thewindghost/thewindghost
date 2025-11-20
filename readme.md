@@ -18,21 +18,84 @@
 ---
 ## CVEs Table
 
-<small>
+## CVEs Table
 
-| CVE ID | Affected Products | Vulnerability | Issued by | Link |
-| :--- | :--- | :--- | :--- | :--- |
-| CVE-2025-23001 | [CTFd 3.7.5](https://github.com/CTFd/CTFd) | Host Header Injection - Reset Password Poisoning | MITRE | [POC](https://thewindghost.github.io/#cve-2025-23001) |
-| CVE-2025-29419 | Waiting for Published | Man-in-the-Middle Attack (MITM) | MITRE | Private |
-| Waiting for CVE ID | Waiting for Published | SSL Downgrade - HTTP | Waiting for Published | Private |
-| CVE-2025-10295 | [Angel – Fashion Model Agency WordPress CMS Theme <= 3.2.3 - Authenticated (Subscriber+)](https://themeforest.net/item/angel-fashion-model-agency-wordpress-cms-theme/4251413) | XSS Stored - Forced File Download| Wordfence | [Report](https://www.cve.org/CVERecord?id=CVE-2025-10295) |
-| CVE-2025-62674 | Waiting for Published | Unauthenticated Access | CERT/CC and CISA Industrial Control Systems Vulnerability Management and Coordination | Expected Date Public: 2025-11-18 |
-| CVE-2025-64770 | Waiting for Published | Unauthenticated Access | CERT/CC and CISA Industrial Control Systems Vulnerability Management and Coordination | Expected Date Public: 2025-11-18 |
-| Waiting for CVE ID | Waiting for Published | Denial of Service - Crash Service | CERT/CC and CISA Industrial Control Systems Vulnerability Management and Coordination | Private |
-| Waiting for CVE ID | Waiting for Published | Heap Overflow - Device Bricking | CERT/CC and CISA Industrial Control Systems Vulnerability Management and Coordination | Private |
-| Waiting for CVE ID | Waiting for Published | Insecure Broadcast Receiver | Waiting for Published | Private |
-   
-</small>
+<table style="font-size: 13px; width: 100%;">
+<thead>
+  <tr>
+    <th style="width: 12%;">CVE ID</th>
+    <th style="width: 23%;">Affected Products</th>
+    <th style="width: 25%;">Vulnerability</th>
+    <th style="width: 25%;">Issued by</th>
+    <th style="width: 15%;">Link</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>CVE-2025-23001</td>
+    <td><a href="https://github.com/CTFd/CTFd">CTFd 3.7.5</a></td>
+    <td>Host Header Injection - Reset Password Poisoning</td>
+    <td>MITRE</td>
+    <td><a href="https://thewindghost.github.io/#cve-2025-23001">POC</a></td>
+  </tr>
+  <tr>
+    <td>CVE-2025-29419</td>
+    <td>Waiting for Published</td>
+    <td>Man-in-the-Middle Attack (MITM)</td>
+    <td>MITRE</td>
+    <td>Private</td>
+  </tr>
+  <tr>
+    <td>Waiting for CVE</td>
+    <td>Waiting for Published</td>
+    <td>SSL Downgrade - HTTP</td>
+    <td>Waiting for Published</td>
+    <td>Private</td>
+  </tr>
+  <tr>
+    <td>CVE-2025-10295</td>
+    <td><a href="https://themeforest.net/item/angel-fashion-model-agency-wordpress-cms-theme/4251413">Angel Theme ≤ 3.2.3</a></td>
+    <td>XSS Stored - Forced File Download</td>
+    <td>Wordfence</td>
+    <td><a href="https://www.cve.org/CVERecord?id=CVE-2025-10295">Report</a></td>
+  </tr>
+  <tr>
+    <td>CVE-2025-62674</td>
+    <td>Waiting for Published</td>
+    <td>Unauthenticated Access</td>
+    <td>CERT/CC and CISA ICS</td>
+    <td>Expected: 2025-11-18</td>
+  </tr>
+  <tr>
+    <td>CVE-2025-64770</td>
+    <td>Waiting for Published</td>
+    <td>Unauthenticated Access</td>
+    <td>CERT/CC and CISA ICS</td>
+    <td>Expected: 2025-11-18</td>
+  </tr>
+  <tr>
+    <td>Waiting for CVE</td>
+    <td>Waiting for Published</td>
+    <td>Denial of Service - Crash Service</td>
+    <td>CERT/CC and CISA ICS</td>
+    <td>Private</td>
+  </tr>
+  <tr>
+    <td>Waiting for CVE</td>
+    <td>Waiting for Published</td>
+    <td>Heap Overflow - Device Bricking</td>
+    <td>CERT/CC and CISA ICS</td>
+    <td>Private</td>
+  </tr>
+  <tr>
+    <td>Waiting for CVE</td>
+    <td>Waiting for Published</td>
+    <td>Insecure Broadcast Receiver</td>
+    <td>Waiting for Published</td>
+    <td>Private</td>
+  </tr>
+</tbody>
+</table>
 
 ---
 ## Tools & Technologies
