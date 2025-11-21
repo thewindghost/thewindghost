@@ -62,14 +62,14 @@
     <td>Waiting for Published</td>
     <td>Unauthenticated Access</td>
     <td>CERT/CC and CISA ICS</td>
-    <td>Expected: 2025-11-18</td>
+    <td><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-324-02">Report</a></td>
   </tr>
   <tr>
     <td>CVE-2025-64770</td>
     <td>Waiting for Published</td>
     <td>Unauthenticated Access</td>
     <td>CERT/CC and CISA ICS</td>
-    <td>Expected: 2025-11-18</td>
+    <td><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-324-02">Report</a></td>
   </tr>
   <tr>
     <td>Waiting for CVE</td>
