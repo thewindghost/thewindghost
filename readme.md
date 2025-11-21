@@ -59,15 +59,15 @@
   </tr>
   <tr>
     <td>CVE-2025-62674</td>
-    <td>Waiting for Published</td>
-    <td>Unauthenticated Access</td>
+    <td>ICAM365</td>
+    <td>Missing Authentication for Critical Function</td>
     <td>CERT/CC and CISA ICS</td>
     <td><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-324-02">Report</a></td>
   </tr>
   <tr>
     <td>CVE-2025-64770</td>
-    <td>Waiting for Published</td>
-    <td>Unauthenticated Access</td>
+    <td>ICAM365</td>
+    <td>Missing Authentication for Critical Function</td>
     <td>CERT/CC and CISA ICS</td>
     <td><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-324-02">Report</a></td>
   </tr>
