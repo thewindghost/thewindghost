@@ -4,8 +4,7 @@
 
 ## Field of Expertise
 
-**Security Researcher**: I research novel vulnerabilities (including zero-days), perform web and mobile application penetration tests, and assess IoT products. I specialize in finding logic and implementation-based vulnerability variants and producing clear, actionable reports.
-
+**Security Researcher**: I research novel vulnerabilities (including zero-days), perform web and mobile application penetration tests, and assess IoT products. I specialize in finding logic and implementation-based vulnerability variants.
 ---
 ## Personal Information
 - **Full Name:** Truong Nguyen Long  
