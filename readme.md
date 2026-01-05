@@ -186,10 +186,3 @@
     * **Ranking:** (unknown)
     * **Challenges solved:** Web, Forensics, Pwn, Network
     * **Link / Proof:** [Advent of Cyber 2024](https://www.linkedin.com/in/thewindghost/details/certifications/1740293549901/single-media-viewer/?profileId=ACoAAEyi-zoBlJBLFgl9NSof5nfHQl-ZS_fGn48)
-
----
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thewindghost) [![Website](https://img.shields.io/badge/Blog-20232A?style=for-the-badge&logo=markdown&logoColor=white)](https://thewindghost.github.io/)
----
