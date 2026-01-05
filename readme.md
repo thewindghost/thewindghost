@@ -5,6 +5,7 @@
 ## Field of Expertise
 
 **Security Researcher**: I research novel vulnerabilities (including zero-days), perform web and mobile application penetration tests, and assess IoT products. I specialize in finding logic and implementation-based vulnerability variants.
+
 ---
 ## Personal Information
 - **Full Name:** Truong Nguyen Long  
@@ -14,6 +15,22 @@
 - **Role:** Security Researcher / Penetration Tester  
 - **Interests:** Web Application Security, Bug Bounty Hunting 
 
+---
+## Achievements and Awards
+* **Rank #79 Recognized Bug Bounty Hunter - PayPal HackerOne Thanks List (2025)**
+    * **Issuer:** [Hackerone Platform - PayPal Program](https://hackerone.com/paypal)
+    * **Year:** 2025
+    * **Verification:** [Paypal - Thanks](https://hackerone.com/paypal/thanks/2025)
+
+* **Rank #1 Bug Bounty Hunter – Trip Security Response Center (Feb 2025)**
+    * **Issuer:** [Trip Security Response Center](https://src.trip.com/)
+    * **Year:** 2025
+    * **Verification:** [Award Trip Com](https://github.com/thewindghost/thewindghost/blob/main/images/Award_trip_com.jpg)
+
+* **Rank #6 Finalist In CSAW'2024 Red Team Competition**
+    * **Issuer:** [Grenoble INP - UGA](https://www.linkedin.com/school/institut-polytechnique-de-grenoble) | [CSAW Europe - Cyber Security Awareness Week Europe - Grenoble INP - ESISAR](https://www.linkedin.com/company/csaw-europe/)
+    * **Year:** 2024
+    * **Verification:** [A look back at CSAW'24: Red Team Competition](https://www.linkedin.com/posts/csaw-europe_csawabreurope-redteamcompetition-cybersecuritychallenge-activity-7296172162313273344-bv4s?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyi-zoBlJBLFgl9NSof5nfHQl-ZS_fGn48)
 ---
 ## CVEs Table
 
@@ -107,23 +124,6 @@
 | **Password & Crypto Tools** | ![Hydra](https://img.shields.io/badge/Hydra-405067?style=for-the-badge&logo=kali-linux&logoColor=white) ![John the Ripper](https://img.shields.io/badge/John-F05032?style=for-the-badge&logo=kali-linux&logoColor=white) ![Hashcat](https://img.shields.io/badge/Hashcat-F36E1B?style=for-the-badge&logo=hashicorp&logoColor=white) |
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) |
 | **Others** | ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-
----
-## Achievements and Awards
-* **Rank #79 Recognized Bug Bounty Hunter - PayPal HackerOne Thanks List (2025)**
-    * **Issuer:** [Hackerone Platform - PayPal Program](https://hackerone.com/paypal)
-    * **Year:** 2025
-    * **Verification:** [Paypal - Thanks](https://hackerone.com/paypal/thanks/2025)
-
-* **Rank #1 Bug Bounty Hunter – Trip Security Response Center (Feb 2025)**
-    * **Issuer:** [Trip Security Response Center](https://src.trip.com/)
-    * **Year:** 2025
-    * **Verification:** [Award Trip Com](https://github.com/thewindghost/thewindghost/blob/main/images/Award_trip_com.jpg)
-
-* **Rank #6 Finalist In CSAW'2024 Red Team Competition**
-    * **Issuer:** [Grenoble INP - UGA](https://www.linkedin.com/school/institut-polytechnique-de-grenoble) | [CSAW Europe - Cyber Security Awareness Week Europe - Grenoble INP - ESISAR](https://www.linkedin.com/company/csaw-europe/)
-    * **Year:** 2024
-    * **Verification:** [A look back at CSAW'24: Red Team Competition](https://www.linkedin.com/posts/csaw-europe_csawabreurope-redteamcompetition-cybersecuritychallenge-activity-7296172162313273344-bv4s?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyi-zoBlJBLFgl9NSof5nfHQl-ZS_fGn48)
 
 ---
 ## Certifications
