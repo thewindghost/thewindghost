@@ -11,7 +11,7 @@
 - **Full Name:** Truong Nguyen Long  
 - **Nickname:** TheWindGhost  
 - **Nationality:** Vietnamese  
-- **Age:** 18+  
+- **Age:** 19+  
 - **Role:** Security Researcher / Penetration Tester  
 - **Interests:** Web Application Security, Bug Bounty Hunting 
 
