@@ -13,7 +13,7 @@
 - **Nationality:** Vietnamese  
 - **Age:** 19+  
 - **Role:** Security Researcher / Penetration Tester  
-- **Interests:** Web Application Security, Bug Bounty Hunting
+- **Interests:** Web Application Security, Bug Bounty Hunting, Mobile Apps, Cloud Security, AI Security, Automation with AI
 - **Working At GoTymeX**
 
 ---
