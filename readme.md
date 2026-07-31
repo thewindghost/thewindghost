@@ -98,7 +98,7 @@
   <tr>
     <td>Waiting for CVE</td>
     <td>Waiting for Published</td>
-    <td>Heap Overflow - Device Bricking</td>
+    <td>Buffer Overflow - Overwriting Credentials & Bricking Device</td>
     <td>CERT/CC and CISA ICS</td>
     <td>Private</td>
   </tr>
