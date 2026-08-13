@@ -53,21 +53,7 @@
     <td>MITRE</td>
     <td><a href="https://thewindghost.github.io/#cve-2025-23001">POC</a></td>
   </tr>
-  <tr>
-    <td>CVE-2025-29419</td>
-    <td>Waiting for Published</td>
-    <td>Man-in-the-Middle Attack (MITM)</td>
-    <td>MITRE</td>
-    <td>Private</td>
-  </tr>
-  <tr>
-    <td>Waiting for CVE</td>
-    <td>Waiting for Published</td>
-    <td>SSL Downgrade - HTTP</td>
-    <td>Waiting for Published</td>
-    <td>Private</td>
-  </tr>
-  <tr>
+   <tr>
     <td>CVE-2025-10295</td>
     <td><a href="https://themeforest.net/item/angel-fashion-model-agency-wordpress-cms-theme/4251413">Angel Theme ≤ 3.2.3</a></td>
     <td>XSS Stored - Forced File Download</td>
@@ -89,16 +75,58 @@
     <td><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-324-02">Report</a></td>
   </tr>
   <tr>
+    <td>CVE-2025-29419</td>
+    <td>Waiting for Published</td>
+    <td>Man-in-the-Middle Attack (MITM)</td>
+    <td>MITRE</td>
+    <td>Private</td>
+  </tr>
+  <tr>
     <td>Waiting for CVE</td>
     <td>Waiting for Published</td>
-    <td>Denial of Service - Crash Service</td>
+    <td>Remote Code Execution - SD Card</td>
     <td>CERT/CC and CISA ICS</td>
     <td>Private</td>
   </tr>
   <tr>
     <td>Waiting for CVE</td>
     <td>Waiting for Published</td>
-    <td>Buffer Overflow - Overwriting Credentials & Bricking Device</td>
+    <td>Unauthenticated Remote Code Execution - CTP Protocol</td>
+    <td>CERT/CC and CISA ICS</td>
+    <td>Private</td>
+  </tr>
+  <tr>
+    <td>Waiting for CVE</td>
+    <td>Waiting for Published</td>
+    <td>Unauthenticated Remote Code Exectuion - Remote Activation of Debug Telnet Service via Custom TCP Protocol</td>
+    <td>CERT/CC and CISA ICS</td>
+    <td>Private</td>
+  </tr>
+  <tr>
+    <td>Waiting for CVE</td>
+    <td>Waiting for Published</td>
+    <td>Weak Credential - Legacy DES-crypt Hash</td>
+    <td>Waiting for Published</td>
+    <td>Private</td>
+  </tr>
+  <tr>
+    <td>Waiting for CVE</td>
+    <td>Waiting for Published</td>
+    <td>Out-of-Bounds Write in ONVIF Service - Overwriting Credentials & Bricking Device</td>
+    <td>CERT/CC and CISA ICS</td>
+    <td>Private</td>
+  </tr>
+  <tr>
+    <td>Waiting for CVE</td>
+    <td>Waiting for Published</td>
+    <td>SSL Downgrade - HTTP</td>
+    <td>Waiting for Published</td>
+    <td>Private</td>
+  </tr>
+  <tr>
+    <td>Waiting for CVE</td>
+    <td>Waiting for Published</td>
+    <td>Denial of Service - Crash Service</td>
     <td>CERT/CC and CISA ICS</td>
     <td>Private</td>
   </tr>
