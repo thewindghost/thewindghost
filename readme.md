@@ -98,7 +98,7 @@
   <tr>
     <td>Waiting for CVE</td>
     <td>Waiting for Published</td>
-    <td>Unauthenticated Remote Code Exectuion - Remote Activation of Debug Telnet Service via Custom TCP Protocol</td>
+    <td>Unauthenticated Remote Activation of Debug Telnet Service via Custom TCP Protocol</td>
     <td>CERT/CC and CISA ICS</td>
     <td>Private</td>
   </tr>
