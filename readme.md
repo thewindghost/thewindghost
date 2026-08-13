@@ -12,7 +12,7 @@
 - **Nickname:** TheWindGhost  
 - **Nationality:** Vietnamese  
 - **Age:** 19+  
-- **Role:** Security Researcher / Penetration Tester  
+- **Role:** Security Researcher / Penetration Tester
 - **Interests:** Web Application Security, Bug Bounty Hunting, Mobile Apps, Cloud Security, AI Security, Automation with AI
 - **Working At GoTymeX**
 
@@ -106,7 +106,7 @@
     <td>Waiting for CVE</td>
     <td>Waiting for Published</td>
     <td>Weak Credential - Legacy DES-crypt Hash</td>
-    <td>Waiting for Published</td>
+    <td>CERT/CC and CISA ICS</td>
     <td>Private</td>
   </tr>
   <tr>
@@ -145,10 +145,12 @@
 
 | Field | Tools & Techniques |
 | :--- | :--- |
+| **Cloud & AWS** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![AWS CLI](https://img.shields.io/badge/AWS_CLI-FF9900?style=for-the-badge&logoColor=white) ![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logoColor=white) ![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logoColor=white) ![SQS](https://img.shields.io/badge/SQS-FF4F8B?style=for-the-badge&logoColor=white) ![SNS](https://img.shields.io/badge/SNS-DD344C?style=for-the-badge&logoColor=white) ![MSK](https://img.shields.io/badge/MSK_(Kafka)-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) |
 | **Operating Systems** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) ![Parrot OS](https://img.shields.io/badge/Parrot_OS-299A29?style=for-the-badge&logo=parrotsecurity&logoColor=white) |
 | **Burp Suite & Extensions** | ![Burp Suite](https://img.shields.io/badge/Burp_Suite-E66418?style=for-the-badge&logo=burp-suite&logoColor=white) ![Autorize](https://img.shields.io/badge/Autorize-000000?style=for-the-badge&logo=burp-suite&logoColor=white) ![Param Miner](https://img.shields.io/badge/Param_Miner-000000?style=for-the-badge&logo=burp-suite&logoColor=white) ![HTTP Request Smuggler](https://img.shields.io/badge/HTTP_Request_Smuggler-000000?style=for-the-badge&logo=burp-suite&logoColor=white) ![GAP](https://img.shields.io/badge/GAP-000000?style=for-the-badge&logo=burp-suite&logoColor=white) ![UPnP Hunter](https://img.shields.io/badge/UPNP_Hunter-000000?style=for-the-badge&logo=burp-suite&logoColor=white) ![JWT Editor](https://img.shields.io/badge/jwt_editor-000000?style=for-the-badge&logo=burp-suite&logoColor=white) |
 | **Web Pentesting** | ![SQLmap](https://img.shields.io/badge/SQLmap-616161?style=for-the-badge&logo=sqlmap&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-A73030?style=for-the-badge&logo=nmap&logoColor=white) ![ffuf](https://img.shields.io/badge/ffuf-000000?style=for-the-badge&logo=go&logoColor=white) ![dirsearch](https://img.shields.io/badge/dirsearch-F8F9FA?style=for-the-badge&logo=python&logoColor=black) ![gobuster](https://img.shields.io/badge/gobuster-1572B6?style=for-the-badge&logo=go&logoColor=white) ![subfinder](https://img.shields.io/badge/subfinder-000000?style=for-the-badge&logo=go&logoColor=white) ![nuclei](https://img.shields.io/badge/nuclei-000000?style=for-the-badge&logo=go&logoColor=white) ![katana](https://img.shields.io/badge/katana-000000?style=for-the-badge&logo=go&logoColor=white) ![Nikto](https://img.shields.io/badge/Nikto-3A4750?style=for-the-badge&logo=kali-linux&logoColor=white) ![WPScan](https://img.shields.io/badge/WPScan-000000?style=for-the-badge&logo=wordpress&logoColor=white) |
 | **Mobile Pentesting** | ![ADB](https://img.shields.io/badge/Android_Debug_Bridge-03DAC6?style=for-the-badge&logo=android&logoColor=black) ![Drozer](https://img.shields.io/badge/Drozer-A8CD17?style=for-the-badge&logo=drozer&logoColor=black) ![Frida](https://img.shields.io/badge/Frida-21C64E?style=for-the-badge&logo=frida&logoColor=white) ![Jadx-GUI](https://img.shields.io/badge/Jadx_GUI-61B2E4?style=for-the-badge&logo=java&logoColor=white) ![APKTool](https://img.shields.io/badge/APKtool-FF6F00?style=for-the-badge&logo=android&logoColor=white) |
+| **Reverse Engineering & Binary Analysis** | ![Ghidra](https://img.shields.io/badge/Ghidra-3A4750?style=for-the-badge&logoColor=white)|
 | **Network Analysis & Exploitation** | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Bettercap](https://img.shields.io/badge/Bettercap-D84315?style=for-the-badge&logo=kali-linux&logoColor=white) ![Aircrack-ng](https://img.shields.io/badge/Aircrack_ng-FF6F00?style=for-the-badge&logo=kali-linux&logoColor=white) ![Wifite](https://img.shields.io/badge/Wifite-232323?style=for-the-badge&logo=python&logoColor=white) |
 | **Password & Crypto Tools** | ![Hydra](https://img.shields.io/badge/Hydra-405067?style=for-the-badge&logo=kali-linux&logoColor=white) ![John the Ripper](https://img.shields.io/badge/John-F05032?style=for-the-badge&logo=kali-linux&logoColor=white) ![Hashcat](https://img.shields.io/badge/Hashcat-F36E1B?style=for-the-badge&logo=hashicorp&logoColor=white) |
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) |
