@@ -18,6 +18,17 @@
 
 ---
 ## Achievements and Awards
+
+* **Speaker at Viet Nam Live Hacking Event - HackerOne (01/2026)**
+    * **Organizer:** [FlySec Coporation](https://www.flyseccorp.com/)
+    * **Year:** 2026
+    * **Verification:** [HackerOne Leaderboards](https://leaderboards.hackerone.live/vietnam-meetup-january-2026)
+ 
+* **Speaker at Bug Bounty Workshop - Cyber Jutsu Academy**
+    * **Organizer:** [Cyber Jutsu Academy - VietNam](https://www.flyseccorp.com/)
+    * **Year:** 2025
+    * **White Paper:** Private
+
 * **Rank #79 Recognized Bug Bounty Hunter - PayPal HackerOne Thanks List (2025)**
     * **Issuer:** [Hackerone Platform - PayPal Program](https://hackerone.com/paypal)
     * **Year:** 2025
