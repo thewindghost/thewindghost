@@ -87,10 +87,10 @@
   </tr>
   <tr>
     <td>CVE-2025-29419</td>
-    <td>Waiting for Published</td>
+    <td><a href="https://nvd.nist.gov/vuln/detail/cve-2025-29419">Record</a></td>
     <td>Man-in-the-Middle Attack (MITM)</td>
     <td>MITRE</td>
-    <td>Private</td>
+    <td><a href="https://thewindghost.github.io/#cve-2025-29419">POC</a></td>
   </tr>
   <tr>
     <td>Waiting for CVE</td>
