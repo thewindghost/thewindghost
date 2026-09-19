@@ -39,10 +39,6 @@
     * **Year:** 2025
     * **Verification:** [Award Trip Com](https://github.com/thewindghost/thewindghost/blob/main/images/Award_trip_com.jpg)
 
-* **Rank #6 Finalist In CSAW'2024 Red Team Competition**
-    * **Issuer:** [Grenoble INP - UGA](https://www.linkedin.com/school/institut-polytechnique-de-grenoble) | [CSAW Europe - Cyber Security Awareness Week Europe - Grenoble INP - ESISAR](https://www.linkedin.com/company/csaw-europe/)
-    * **Year:** 2024
-    * **Verification:** [A look back at CSAW'24: Red Team Competition](https://www.linkedin.com/posts/csaw-europe_csawabreurope-redteamcompetition-cybersecuritychallenge-activity-7296172162313273344-bv4s?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyi-zoBlJBLFgl9NSof5nfHQl-ZS_fGn48)
 ---
 ## CVEs Table
 
@@ -193,6 +189,11 @@
 ---
 
 ## CTFs Participated
+
+* **Finalist In CSAW'2024 Red Team Competition**
+    * **Ranking:** 6 / 200
+    * **Challenges solved:** Web, Forensics, Misc, Programing, Reverse
+    * **Link / Proof:** [A look back at CSAW'24: Red Team Competition](https://www.linkedin.com/posts/csaw-europe_csawabreurope-redteamcompetition-cybersecuritychallenge-activity-7296172162313273344-bv4s?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyi-zoBlJBLFgl9NSof5nfHQl-ZS_fGn48)
 
 * **HTB Apocalypse 2024 Hacker Royale**
     * **Ranking:** 485 / 12,000 Total Players
