@@ -50,6 +50,7 @@
     <th style="width: 25%;">Vulnerability</th>
     <th style="width: 25%;">Issued by</th>
     <th style="width: 15%;">Link</th>
+    <th style="width: 15%;">HackerOne Report</th>
   </tr>
 </thead>
 <tbody>
@@ -94,7 +95,7 @@
     <td>Information Disclosure - Private Content Leaked</td>
     <td>VulnCheck</td>
     <td><a href="https://www.cve.org/CVERecord?id=CVE-2026-110762">CVE</td>
-    <td><a href="https://hackerone.com/reports/4053546">HackerOne Report</td>
+    <td><a href="https://hackerone.com/reports/4053546">Report</td>
   </tr>
   <tr>
     <td>Waiting for CVE</td>
