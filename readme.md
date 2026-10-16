@@ -90,7 +90,7 @@
   </tr>
   <tr>
     <td>CVE-2026-110762</td>
-    <td><a href="https://bbpress.org/blog/2026/09/bbpress-2-6-19-is-out/">bbpress</a></td>
+    <td><a href="https://bbpress.org/blog/2026/09/bbpress-2-6-19-is-out/">bbPress < 2.6.19</a></td>
     <td>Information Disclosure - Private Content Leaked (<a href="https://hackerone.com/reports/4053546">HackerOne</a>)</td>
     <td>VulnCheck</td>
     <td><a href="https://www.cve.org/CVERecord?id=CVE-2026-110762">CVE</td>
