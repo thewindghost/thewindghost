@@ -89,6 +89,14 @@
     <td><a href="https://thewindghost.github.io/#cve-2025-29419">POC</a></td>
   </tr>
   <tr>
+    <td>CVE-2026-110762</td>
+    <td><a href="https://bbpress.org/blog/2026/09/bbpress-2-6-19-is-out/">bbpress</a></td>
+    <td>Information Disclosure - Private Content Leaked</td>
+    <td>VulnCheck</td>
+    <td><a href="https://www.cve.org/CVERecord?id=CVE-2026-110762">CVE</td>
+    <td><a href="https://hackerone.com/reports/4053546">HackerOne Report</td>
+  </tr>
+  <tr>
     <td>Waiting for CVE</td>
     <td>Waiting for Published</td>
     <td>Remote Code Execution - SD Card</td>
